@@ -1,0 +1,119 @@
+{
+  "status": "public",
+  "embargo_date": null,
+  "citation": "Packard, Adam I.; Lin, Brian; E. Schwob, James (2016): Pax6- and Sox2-encoding retroviral vectors differentially alter the cellular composition across clones.. figshare.\n 10.1371/journal.pone.0155167.g006\n Retrieved: 15 23, Jun 05, 2017 (GMT)",
+  "url_private_api": "https://api.figshare.com/v2/account/articles/3943347",
+  "embargo_reason": "",
+  "references": [],
+  "url_public_api": "https://api.figshare.com/v2/articles/3943347",
+  "id": 3943347,
+  "custom_fields": [],
+  "size": 4154396,
+  "metadata_reason": "",
+  "funding": "",
+  "figshare_url": "https://figshare.com/articles/Pax6-_and_Sox2-encoding_retroviral_vectors_differentially_alter_the_cellular_composition_across_clones_/3943347",
+  "embargo_type": null,
+  "title": "Pax6- and Sox2-encoding retroviral vectors differentially alter the cellular composition across clones.",
+  "thumb": "https://s3-eu-west-1.amazonaws.com/ppreviews-plos-725668748/6167622/thumb.png",
+  "defined_type": 1,
+  "is_embargoed": false,
+  "version": 1,
+  "confidential_reason": "",
+  "files": [
+    {
+      "is_link_only": false,
+      "size": 4154396,
+      "id": 6167622,
+      "download_url": "https://ndownloader.figshare.com/files/6167622",
+      "name": "Fig 6.TIF"
+    }
+  ],
+  "description": "<p>(A-H) Tissues harvested 3 weeks after <i>EV</i>, <i>Pax6</i>, <i>SEP</i> and <i>Sox2</i> RVV-transduction were stained with GFP, along with PGP9.5 (a neuronal marker) to illustrate the range in outcomes for each condition. Cell identity among clones was then determined relative to PGP9.5 staining. GFP-labeled cells were identified as sustentacular cells (Sus) when their cell bodies were found superficial to the band of PGP9.5 (+) OSNs, while GFP-labeled cells were identified as basal cells if they were deep to the band of neurons. GFP (+) cells were identified as duct/gland cells (D/G) when they were flattened, oriented as a chain of cells along the apical-basal axis, and/or extended deep to the basal lamina into the lamina propria (cf. <a href=\"http://www.plosone.org/article/info:doi/10.1371/journal.pone.0155167#pone.0155167.g003\" target=\"_blank\">Fig 3G and 3H</a>). GFP (+) cells were identified as OSNs, if they co-labeled with PGP9.5. (E-H) CD54 was used to immunostain HBCs along with PGP9.5. (E-H) There is substantial variation in clonal composition. (E) The arrow indicates a mixed clone composed of OSNs and a large group of Sus cells atop the neurons. (F) The arrow indicates a Sus-only clone where the GFP-labeled cells sit atop the neurons. (G) The solid arrow with asterisk points to gland cells located deep to the HBCs and basal lamina. (H) Another example of a mixed clone composed of Sus cells (arrow) and neurons (hollow arrow with asterisk). Dashed lines mark the basal lamina (A-H) and the scale bar in (H) corresponds to 20 \u03bcm and applies to all of the panels. (I) For the various cell types, the data from each and every clone was used to generate a box-and-whiskers scatter plot; the median for each distribution is marked by the horizontal black line within the box. In the order shown in the graph they are: for basal cells\u2013 1, 1, 1, 0; for OSNs\u2013 8, 2, 0, 3; for Sus cells\u2013 3, 2, 0, 1; for D/G (duct/gland cells)\u2013 0, 0, 0, 0, respectively. Note the break in the ordinate of the graph to accommodate those clones that contain a markedly greater number of neurons, which occur exclusively with Sox2 transduction. Because all of the datasets shown here failed the Shapiro-Wilk test for normality, a Kruskal-Wallis One-Way ANOVA on Ranks was used, followed by Dunn\u2019s Method for pairwise multiple comparisons. (J) For the group of clones as a whole, the percentage of clones that contain neurons for each form of transduction are indicated in the bar graph, and multiple pairwise comparisons (indicated by the horizontal lines) are significantly different (Fisher Exact test with Holm-Sidak multiple comparison correction, * p < 0.05).</p>",
+  "tags": [
+    "HBC",
+    "Sox 2 retards",
+    "Pax 6",
+    "Pax 6 Play Counteracting Roles",
+    "transcription factors Pax 6",
+    "Sox 2",
+    "OE",
+    "OSN",
+    "NeuroD 1-labeled GBCs",
+    "CreER T 2",
+    "NeuroD 1-expressing GBCs",
+    "less-differentiated globose basal cells",
+    "EV",
+    "Murine Olfactory Epithelium",
+    "over-express Pax 6",
+    "neuron",
+    "floxed Sox 2 mice"
+  ],
+  "url_private_html": "https://figshare.com/account/articles/3943347",
+  "published_date": "2016-05-12T21:51:30Z",
+  "is_active": true,
+  "authors": [
+    {
+      "url_name": "_",
+      "is_active": false,
+      "id": 3171396,
+      "full_name": "Adam I. Packard",
+      "orcid_id": ""
+    },
+    {
+      "url_name": "_",
+      "is_active": false,
+      "id": 268693,
+      "full_name": "Brian Lin",
+      "orcid_id": ""
+    },
+    {
+      "url_name": "_",
+      "is_active": false,
+      "id": 293708,
+      "full_name": "James E. Schwob",
+      "orcid_id": ""
+    }
+  ],
+  "is_public": true,
+  "categories": [
+    {
+      "parent_id": 48,
+      "id": 12,
+      "title": "Cell Biology"
+    },
+    {
+      "parent_id": 48,
+      "id": 15,
+      "title": "Neuroscience"
+    },
+    {
+      "parent_id": 48,
+      "id": 734,
+      "title": "Biological Sciences not elsewhere classified"
+    },
+    {
+      "parent_id": 48,
+      "id": 61,
+      "title": "Developmental Biology"
+    },
+    {
+      "parent_id": 48,
+      "id": 128,
+      "title": "Hematology"
+    }
+  ],
+  "modified_date": "2016-09-28T21:56:57Z",
+  "is_confidential": false,
+  "doi": "10.1371/journal.pone.0155167.g006",
+  "has_linked_file": false,
+  "license": {
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "name": "CC BY",
+    "value": 1
+  },
+  "url": "https://api.figshare.com/v2/articles/3943347",
+  "url_public_html": "https://figshare.com/articles/Pax6-_and_Sox2-encoding_retroviral_vectors_differentially_alter_the_cellular_composition_across_clones_/3943347",
+  "created_date": "2016-09-28T21:56:51Z",
+  "group_id": 107,
+  "is_metadata_record": false
+}
